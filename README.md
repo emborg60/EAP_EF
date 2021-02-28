@@ -1,6 +1,12 @@
 # EAP_EF
+By Christoffer and Sebastian 
+Repo mainly made for sharing, not reuse of code base as plenty of refractoring needed. 
+
 Code and papers writting for courses Empirical Asset Pricing and Economic Forecasting.
 Both papers utilize sentiment extracted from Reddit comments collected from google big query. 
+
+Requires setting up own google cloud account to access big query and downloading the json credential file. See Kode.Functions.collect_big_query
+
 
 # Empirical Asset Pricing: 
 This paper examines the cryptocurrency market with an outset in traditional empirical asset pricing, to assess potential
