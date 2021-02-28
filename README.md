@@ -1,6 +1,7 @@
 # EAP_EF
 By Christoffer and Sebastian 
-Repo mainly made for sharing, not reuse of code base as plenty of refractoring needed. 
+
+Repo mainly made for sharing, not direct implementation of code base as plenty of refractoring needed to archive that standard. 
 
 Code and papers writting for courses Empirical Asset Pricing and Economic Forecasting.
 Both papers utilize sentiment extracted from Reddit comments collected from google big query. 
